@@ -1,4 +1,4 @@
-$(document).ready(onReady);
+//$(document).ready(onReady);
 
 const secondHand = document.querySelector('.second-hand');
   const minsHand = document.querySelector('.min-hand');
